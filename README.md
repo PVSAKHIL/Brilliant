@@ -2,6 +2,8 @@
 
 This project was made with [React].
 
+## Libraries Used
+react,react-dom,react-router-dom
 ## Available Scripts
 
 In the project directory, you can run:
